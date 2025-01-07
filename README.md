@@ -53,7 +53,9 @@ The platform supports a variety of user actions as part of its core functionalit
 8. **Open your web browser and visit http://localhost:8080**
 
 
-   
+## Acknowledgements
+[Mahad Rehman Durrani](https://github.com/mahadrehmann)
+[Muhammad Hashim Awan](https://github.com/hashimaawan)
 
 
 
