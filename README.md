@@ -55,6 +55,7 @@ The platform supports a variety of user actions as part of its core functionalit
 
 ## Acknowledgements
 [Mahad Rehman Durrani](https://github.com/mahadrehmann)
+
 [Muhammad Hashim Awan](https://github.com/hashimaawan)
 
 
